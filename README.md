@@ -8,5 +8,3 @@ Power in the very low frequency (VLF)
 Power in the low frequency (LF)
 Power in the high frequency (HF)
 Ratio between LF and HF (LF/HF ratio)
-
-the used data csv file is also attached.
