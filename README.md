@@ -1,6 +1,8 @@
 # Heart Rate (HR) Signal Features
 
-This repository provides code for extracting time-domain and frequency-domain features from heart rate signals, which are integral to the analysis presented in the linked paper. If you find this code useful, please consider citing the paper.
+This repository provides code for extracting time-domain and frequency-domain features from heart rate signals for further HRV analysis.
+
+If you find this code useful, please consider citing the paper.
 
 [**Assessing the Effectiveness of Heart Rate Variability as A Diagnostic Tool for Brain Injuries in Infants**](https://ieeexplore.ieee.org/abstract/document/10782021)
 
