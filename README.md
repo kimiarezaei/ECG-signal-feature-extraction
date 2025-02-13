@@ -1,6 +1,8 @@
 ## Heart Rate (HR) signal features
 
-Time and frequency domain features extracted from heart rate signal are listed below:
+In this repository codes for extracting Time and frequency domain features from heart rate signal is provided. These features were used in my paper, so please cite if you use it.:
+https://ieeexplore.ieee.org/abstract/document/10782021
+
 1.	Mean of the NN interval (mean NN)
 2.	Standard deviation of NN-interval (SDNN)
 3.	The root mean square of successive differences between normal heartbeats (RMSSD)
