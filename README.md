@@ -23,14 +23,14 @@ https://ieeexplore.ieee.org/abstract/document/10782021
 
 
 ## Prerequisit libraries: 
-$ pip install pyhrv
-$ pip install biosppy
-$ pip install matplotlib
-$ pip install numpy
-$ pip install scipy
-$ pip install nolds
-$ pip install spectrum
-$ pip install neurokit2
+- $ pip install pyhrv     
+- $ pip install biosppy    
+- $ pip install matplotlib     
+- $ pip install numpy     
+- $ pip install scipy
+- $ pip install nolds
+- $ pip install spectrum
+- $ pip install neurokit2
 
 
 
