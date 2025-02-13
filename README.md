@@ -2,7 +2,7 @@
 
 This repository provides code for extracting time-domain and frequency-domain features from heart rate signals, which are integral to the analysis presented in the linked paper. If you find this code useful, please consider citing the paper.
 
-[**Cite the Paper**](https://ieeexplore.ieee.org/abstract/document/10782021)
+[**Assessing the Effectiveness of Heart Rate Variability as A Diagnostic Tool for Brain Injuries in Infants**](https://ieeexplore.ieee.org/abstract/document/10782021)
 
 ## Extracted Features
 
@@ -27,14 +27,14 @@ The following features are extracted from the heart rate signal:
 
 ## Prerequisite Libraries
 
-To run the code, you’ll need to install the following libraries:
+To run the code, make sure to have following libraries intalled:
 
 ```bash
-$ pip install pyhrv
-$ pip install biosppy
-$ pip install matplotlib
-$ pip install numpy
-$ pip install scipy
-$ pip install nolds
-$ pip install spectrum
-$ pip install neurokit2
+ pip install pyhrv
+ pip install biosppy
+ pip install matplotlib
+ pip install numpy
+ pip install scipy
+ pip install nolds
+ pip install spectrum
+ pip install neurokit2
