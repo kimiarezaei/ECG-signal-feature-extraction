@@ -1,8 +1,9 @@
-## Heart Rate (HR) signal features
+# Heart Rate (HR) signal features
 
-In this repository codes for extracting Time and frequency domain features from heart rate signal is provided. These features were used in my paper, so please cite if you use it.:
-https://ieeexplore.ieee.org/abstract/document/10782021
+In this repository codes for extracting Time and frequency domain features from heart rate signal is provided. These features were used in my paper, so please cite if you use it.       
+https://ieeexplore.ieee.org/abstract/document/10782021               
 
+## Extracted features are:
 1.	Mean of the NN interval (mean NN)
 2.	Standard deviation of NN-interval (SDNN)
 3.	The root mean square of successive differences between normal heartbeats (RMSSD)
@@ -19,4 +20,22 @@ https://ieeexplore.ieee.org/abstract/document/10782021
 14.	Low frequency power (LF)
 15.	High frequency power (HF)
 16.	Ratio between LF and HF (LF/HF ratio)
+
+
+## Prerequisit libraries: 
+$ pip install pyhrv
+$ pip install biosppy
+$ pip install matplotlib
+$ pip install numpy
+$ pip install scipy
+$ pip install nolds
+$ pip install spectrum
+$ pip install neurokit2
+
+
+
+
+
+
+
 
